@@ -49,3 +49,18 @@ ip         heap.percent ram.percent cpu load_1m load_5m load_15m node.role maste
 172.28.0.2           24          96   6    0.27    0.59     0.39 mdi       *      es02  
 172.28.0.3           26          96   6    0.27    0.59     0.39 mdi       -      es01  
 ```
+
+## Reactive Search
+
+### インストール
+  
+```console  
+$ yarn install
+``` 
+
+### 起動
+
+```console
+$ cd search-app
+$ yarn start
+```
