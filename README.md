@@ -50,6 +50,10 @@ ip         heap.percent ram.percent cpu load_1m load_5m load_15m node.role maste
 172.28.0.3           26          96   6    0.27    0.59     0.39 mdi       -      es01  
 ```
 
+### kibana
+
+http://localhost:5601/
+
 ## Reactive Search
 
 ### インストール
